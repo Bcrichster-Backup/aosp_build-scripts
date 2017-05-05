@@ -9,8 +9,3 @@
 4. Profit. Start working.
 5. Fix up merge issues in individual repositories.
 6. Commit everything and try building.
-
-# Copyright
-Original script by Mazda (Dirty Unicorns ROM)
-Adapted for my use (ideaman924, Bliss ROM)
-License is same as Dirty Unicorns script fork. I think it's 'feel free to use this.'
