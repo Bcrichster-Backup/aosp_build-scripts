@@ -15,10 +15,10 @@
 # limitations under the License.
 
 # Your source directory goes here
-WORKING_DIR=/home/users/ideaman924/Bliss7.1/system
+WORKING_DIR=/home/users/ideaman924/n7.1
 
 # The tag you want to merge in goes here
-BRANCH=android-7.1.2_r5
+BRANCH=android-7.1.2_r27
 
 # Google source url
 REPO=https://android.googlesource.com/platform/
